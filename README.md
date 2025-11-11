@@ -3,7 +3,7 @@ Ensemble Machine Learning-driven Groundwater Assessment across the Ganga and Var
 
 **Authors:** Abhigyan Pandey**, Akash Tiwari*, Anurag Ohri*, Shishir Gaur*, Shubham Narwal**  
 **Institutions:** * Department of Civil Engineering, Indian Institute of Technology (Banaras Hindu University) Varanasi, India  
-                  ** Department of Computer Science and Engineering, Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Amethi, India
+                  ** Department of Computer Science and Engineering, Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Amethi, India                
                   *** Department of Geography, Panjab University, Chandigarh, India
 **Year:** 2025  
 
@@ -31,5 +31,5 @@ The difference metric (Δ = GWQI − PPI) represents a **resilience gap**, offer
 4. Feature Weight Extraction (SHAP) 
 5. Pollution Pressure Index (PPI) Derivation 
 6. Δ (Resilience Gap) Mapping 
-Self-Organizing Maps (SOM) for pollutant co-clustering
+7. Self-Organizing Maps (SOM) for pollutant co-clustering
 
